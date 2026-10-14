@@ -1,0 +1,87 @@
+naics4,industry,sigma_2017,sigma_2012,naics3
+3111,Animal food manufacturing,3.45,4.12,311
+3112,Grain and oilseed milling,4.10,4.03,311
+3113,Sugar product manufacturing,2.68,2.57,311
+3114,Fruit and vegetable preserving,2.57,2.60,311
+3115,Dairy product manufacturing,3.78,4.11,311
+3116,Animal slaughtering,4.36,4.96,311
+3117,Seafood product preparation,3.57,3.34,311
+3118,Bakeries,2.10,2.21,311
+3119,Other food manufacturing,2.30,2.25,311
+3121,Beverage manufacturing,1.99,2.12,312
+3122,Tobacco manufacturing,1.22,1.29,312
+3131,Fiber yarn and thread mills,4.11,4.46,313
+3132,Fabric mills,2.77,2.68,313
+3133,Textile and fabric finishing,3.35,3.25,313
+3141,Textile furnishings,2.96,3.42,314
+3149,Other textile product mills,2.48,2.71,314
+3151,Apparel knitting mills,3.13,2.98,315
+3152,Cut and sew apparel,2.56,2.62,315
+3159,Apparel accessories,2.32,2.28,315
+3161,Leather and hide tanning,5.52,6.25,316
+3162,Footwear manufacturing,3.09,2.66,316
+3169,Other leather and allied products,2.50,2.36,316
+3211,Sawmills and wood preservation,3.39,4.04,321
+3212,Veneer plywood and engineered wood,2.90,3.31,321
+3219,Other wood products,3.02,3.21,321
+3221,Pulp paper and paperboard,2.25,2.19,322
+3222,Converted paper products,3.17,3.01,322
+3231,Printing and related support,2.29,2.22,323
+3241,Petroleum and coal products,5.69,6.75,324
+3251,Basic chemical manufacturing,2.46,2.95,325
+3252,Resin and synthetic rubber products,3.15,3.68,325
+3253,Pesticides and fertilizers,2.09,2.32,325
+3254,Pharmaceuticals and medicines,1.52,1.53,325
+3255,Paint coating and adhesives,2.29,2.55,325
+3256,Soap and cleaning compounds,1.78,1.97,325
+3259,Other chemical products,2.39,2.56,325
+3261,Plastic products,2.52,2.63,326
+3262,Rubber products,2.80,3.35,326
+3271,Clay products refractory,1.97,2.17,327
+3272,Glass and glass products,2.18,2.32,327
+3273,Cement and concrete products,2.38,2.50,327
+3274,Lime and gypsum products,2.25,2.45,327
+3279,Other nonmetallic mineral products,2.07,1.97,327
+3311,Iron and steel mills,3.51,4.21,331
+3312,Steel products from purchased steel,3.46,3.54,331
+3313,Alumina and aluminum production,3.87,4.71,331
+3314,Nonferrous metal products,3.59,4.10,331
+3315,Foundries,2.45,2.44,331
+3321,Forging and stamping,2.78,3.03,332
+3322,Cutlery and handtools,1.88,1.83,332
+3323,Architectural and structural metals,2.63,2.78,332
+3324,Boilers and tanks,3.26,3.09,332
+3325,Hardware,2.18,2.24,332
+3326,Spring and wire products,2.47,2.78,332
+3327,Machine shops,2.41,2.33,332
+3328,Coating and engraving,2.14,2.14,332
+3329,Other fabricated metal,2.15,2.27,332
+3331,Agriculture and construction machinery,2.80,2.84,333
+3332,Industrial machinery,2.16,2.16,333
+3333,Commercial and service machinery,2.13,2.28,333
+3334,Ventilation heating and air conditioning,2.33,2.46,333
+3335,Metalworking machinery,2.34,2.39,333
+3336,Engines and turbines,2.80,2.90,333
+3339,Other general purpose machinery,2.38,2.44,333
+3341,Computers and peripherals,2.43,2.24,334
+3342,Communications equipment,2.09,2.44,334
+3343,Audio and video equipment,2.03,1.95,334
+3344,Semiconductors and components,2.25,2.09,334
+3345,Navigational and other instruments,1.71,1.73,334
+3346,Magnetic and optical media,2.37,1.90,334
+3351,Electric lighting equipment,2.02,2.28,335
+3352,Household appliances,2.63,2.30,335
+3353,Electrical equipment,2.51,2.50,335
+3359,Other electrical equipment,2.45,2.43,335
+3361,Motor vehicles,5.02,5.21,336
+3362,Motor vehicle bodies and trailers,4.02,4.23,336
+3363,Motor vehicle parts,4.01,4.03,336
+3364,Aerospace products and parts,2.14,2.29,336
+3365,Railroad rolling stock,3.95,3.93,336
+3366,Ship and boat building,2.06,2.05,336
+3369,Other transportation equipment,2.62,2.79,336
+3371,Household and institutional furniture,2.57,2.69,337
+3372,Office furniture and fixtures,2.25,2.18,337
+3379,Other furniture related products,2.93,2.24,337
+3391,Medical equipment and supplies,1.75,1.66,339
+3399,Other miscellaneous manufacturing,2.08,2.07,339

@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "accumulation-paradox"
+version = "3.1.0"
+description = "Agent-based model: share absorption and the AI productivity paradox"
+requires-python = ">=3.10"
+dependencies = [
+    "jax",
+    "jaxlib",
+    "numpy",
+    "matplotlib",
+    "scipy",
+    "pandas",
+    "openpyxl",
+]
+
+[tool.setuptools]
+packages = ["abm", "abm.src", "abm.experiments"]
+
+[tool.setuptools.package-data]
+"*" = ["*.json", "*.csv"]

@@ -1,0 +1,48 @@
+{
+ "M0_baseline": {
+  "model_by_sector": {
+   "Information": 0.9656631757290539,
+   "Professional Services": 0.9657665281009963,
+   "Finance and Insurance": 0.9655770487524353,
+   "Educational Services": 0.3333731966885496,
+   "Multi-sector Companies": 0.8950013111882141,
+   "Real Estate and Rental": 0.8950013111882141,
+   "Health Care": 0.9672995784058043,
+   "Arts and Recreation": 0.24734368417906905,
+   "Wholesale Trade": 0.3587122024587373,
+   "Retail Trade": 0.24734368417906905,
+   "Manufacturing": 0.40050041569424677,
+   "Other Services": 0.3333731966885496,
+   "Construction": 0.1242756168929409,
+   "Accommodation and Food": 0.1242756168929409,
+   "Transportation": 0.12125309895148813
+  },
+  "rho": 0.8035903526418239,
+  "p": 0.0003070876785619437,
+  "ci95": [
+   0.4577750792298284,
+   0.9700385667122088
+  ],
+  "loo_min": 0.7580152145268292,
+  "loo_max": 0.8675517827016349
+ },
+ "M2_markup_noise": {
+  "rho_mean": 0.4564435972962589,
+  "rho_ci95": [
+   -0.10583559434933257,
+   0.815294430880636
+  ]
+ },
+ "M1_ahmad_riker_manufacturing": {
+  "n_naics4": 86,
+  "naics3_coverage": "manufacturing only (311-339)",
+  "ar_sigma_mean": 2.7334883720930234,
+  "ar_sigma_median": 2.475,
+  "ar_sigma_range": [
+   1.22,
+   5.69
+  ],
+  "calibration_sigma_manufacturing": 5.0,
+  "note": "Ahmad-Riker estimates cover manufacturing only; an independent cross-sector mapping is not possible with this source. Within manufacturing their sigma is 2.73 vs calibration 5.00 (same order of magnitude; calibration sits above the AR distribution, consistent with De Loecker markups being lower than AR-implied ones)."
+ }
+}

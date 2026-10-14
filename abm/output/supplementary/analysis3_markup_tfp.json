@@ -1,0 +1,212 @@
+{
+  "spread=0.0": {
+    "gain=0.02": {
+      "delta_tfp_mean": 0.17729589999344633,
+      "delta_tfp_std": 0.05134544993973066,
+      "markup_gini_mean": 0.006998832174576819,
+      "markup_gini_std": 0.0004378143604249867,
+      "annualized_tfp": 0.016455951707876615
+    },
+    "gain=0.04": {
+      "delta_tfp_mean": 0.19823979127276195,
+      "delta_tfp_std": 0.05267834999136584,
+      "markup_gini_mean": 0.007009137980639934,
+      "markup_gini_std": 0.00043602320524205394,
+      "annualized_tfp": 0.018249894495070862
+    },
+    "gain=0.06": {
+      "delta_tfp_mean": 0.21902514613461954,
+      "delta_tfp_std": 0.054259215349640816,
+      "markup_gini_mean": 0.0069972201716154816,
+      "markup_gini_std": 0.00043908686267786593,
+      "annualized_tfp": 0.02000257099677083
+    },
+    "gain=0.08": {
+      "delta_tfp_mean": 0.23933666120115477,
+      "delta_tfp_std": 0.05440662098160989,
+      "markup_gini_mean": 0.007030127453617752,
+      "markup_gini_std": 0.00043624278716510067,
+      "annualized_tfp": 0.021689498988993527
+    }
+  },
+  "spread=0.1": {
+    "gain=0.02": {
+      "delta_tfp_mean": 0.1790154827080221,
+      "delta_tfp_std": 0.07992912617153754,
+      "markup_gini_mean": 0.011201021960005164,
+      "markup_gini_std": 0.0008277215261242627,
+      "annualized_tfp": 0.016604319870963558
+    },
+    "gain=0.04": {
+      "delta_tfp_mean": 0.19978873144455586,
+      "delta_tfp_std": 0.08213045531642216,
+      "markup_gini_mean": 0.011182439047843218,
+      "markup_gini_std": 0.0008370344136363032,
+      "annualized_tfp": 0.018381445079288072
+    },
+    "gain=0.06": {
+      "delta_tfp_mean": 0.21888129545718407,
+      "delta_tfp_std": 0.084374790613003,
+      "markup_gini_mean": 0.011172459600493312,
+      "markup_gini_std": 0.0008349303950438901,
+      "annualized_tfp": 0.01999053384942906
+    },
+    "gain=0.08": {
+      "delta_tfp_mean": 0.23118681671780092,
+      "delta_tfp_std": 0.09625067397989913,
+      "markup_gini_mean": 0.011173127079382538,
+      "markup_gini_std": 0.0008378852857010766,
+      "annualized_tfp": 0.021015642247284916
+    }
+  },
+  "spread=0.2": {
+    "gain=0.02": {
+      "delta_tfp_mean": 0.18228523436105604,
+      "delta_tfp_std": 0.11923599152861368,
+      "markup_gini_mean": 0.017550086509436368,
+      "markup_gini_std": 0.0013978957261293783,
+      "annualized_tfp": 0.01688590248240951
+    },
+    "gain=0.04": {
+      "delta_tfp_mean": 0.19889973826787258,
+      "delta_tfp_std": 0.1209987268437805,
+      "markup_gini_mean": 0.0175394497346133,
+      "markup_gini_std": 0.001378774195098594,
+      "annualized_tfp": 0.018305962109617102
+    },
+    "gain=0.06": {
+      "delta_tfp_mean": 0.21574271386798943,
+      "delta_tfp_std": 0.12412478720664791,
+      "markup_gini_mean": 0.01755235893651843,
+      "markup_gini_std": 0.001377658116998151,
+      "annualized_tfp": 0.019727584612908133
+    },
+    "gain=0.08": {
+      "delta_tfp_mean": 0.22956360813663532,
+      "delta_tfp_std": 0.12863573425767147,
+      "markup_gini_mean": 0.017540805134922267,
+      "markup_gini_std": 0.0013745772466873464,
+      "annualized_tfp": 0.02088095062988815
+    }
+  },
+  "spread=0.4": {
+    "gain=0.02": {
+      "delta_tfp_mean": 0.20760877018699989,
+      "delta_tfp_std": 0.07488213229855452,
+      "markup_gini_mean": 0.027393428049981593,
+      "markup_gini_std": 0.0032282462157214426,
+      "annualized_tfp": 0.01904327162383379
+    },
+    "gain=0.04": {
+      "delta_tfp_mean": 0.21492504618702207,
+      "delta_tfp_std": 0.07886928188811358,
+      "markup_gini_mean": 0.027430038060992958,
+      "markup_gini_std": 0.003252433857367332,
+      "annualized_tfp": 0.01965898039752001
+    },
+    "gain=0.06": {
+      "delta_tfp_mean": 0.23633305346545525,
+      "delta_tfp_std": 0.08236205858804985,
+      "markup_gini_mean": 0.027517671696841717,
+      "markup_gini_std": 0.003233095366381169,
+      "annualized_tfp": 0.021441615866046204
+    },
+    "gain=0.08": {
+      "delta_tfp_mean": 0.25348028313393256,
+      "delta_tfp_std": 0.08514871460069702,
+      "markup_gini_mean": 0.02754635727033019,
+      "markup_gini_std": 0.00320448476656136,
+      "annualized_tfp": 0.022849531792132005
+    }
+  },
+  "spread=0.6": {
+    "gain=0.02": {
+      "delta_tfp_mean": 0.28105798275416943,
+      "delta_tfp_std": 0.10113880985752197,
+      "markup_gini_mean": 0.040311403945088385,
+      "markup_gini_std": 0.010239641167942959,
+      "annualized_tfp": 0.025077919325743325
+    },
+    "gain=0.04": {
+      "delta_tfp_mean": 0.30308683068716036,
+      "delta_tfp_std": 0.10255628493326696,
+      "markup_gini_mean": 0.040015811938792466,
+      "markup_gini_std": 0.00932231775357632,
+      "annualized_tfp": 0.026827131990576403
+    },
+    "gain=0.06": {
+      "delta_tfp_mean": 0.323061144880896,
+      "delta_tfp_std": 0.10634079509272494,
+      "markup_gini_mean": 0.04003537641838193,
+      "markup_gini_std": 0.00948383195846181,
+      "annualized_tfp": 0.028390347154850115
+    },
+    "gain=0.08": {
+      "delta_tfp_mean": 0.34193221275393726,
+      "delta_tfp_std": 0.10758460439447332,
+      "markup_gini_mean": 0.040264152362942694,
+      "markup_gini_std": 0.010427224127627132,
+      "annualized_tfp": 0.02984782902538452
+    }
+  },
+  "spread=0.8": {
+    "gain=0.02": {
+      "delta_tfp_mean": 0.32314354985896204,
+      "delta_tfp_std": 0.1005633924780035,
+      "markup_gini_mean": 0.05685623986646533,
+      "markup_gini_std": 0.018953843443562275,
+      "annualized_tfp": 0.02839675215806836
+    },
+    "gain=0.04": {
+      "delta_tfp_mean": 0.34221722782515174,
+      "delta_tfp_std": 0.10195305171296228,
+      "markup_gini_mean": 0.05851983977481723,
+      "markup_gini_std": 0.018607156596208818,
+      "annualized_tfp": 0.029869700033441582
+    },
+    "gain=0.06": {
+      "delta_tfp_mean": 0.3667490020769114,
+      "delta_tfp_std": 0.11175279974473301,
+      "markup_gini_mean": 0.05672578690573573,
+      "markup_gini_std": 0.018903928324819165,
+      "annualized_tfp": 0.03173669382726696
+    },
+    "gain=0.08": {
+      "delta_tfp_mean": 0.3906855520660558,
+      "delta_tfp_std": 0.10710962365729074,
+      "markup_gini_mean": 0.056879818253219125,
+      "markup_gini_std": 0.01880879298349657,
+      "annualized_tfp": 0.03352954065155078
+    }
+  },
+  "spread=1.0": {
+    "gain=0.02": {
+      "delta_tfp_mean": 0.3670370109740377,
+      "delta_tfp_std": 0.08901874173773416,
+      "markup_gini_mean": 0.08683101814240217,
+      "markup_gini_std": 0.03265929455714987,
+      "annualized_tfp": 0.0317584330912426
+    },
+    "gain=0.04": {
+      "delta_tfp_mean": 0.3863191388605407,
+      "delta_tfp_std": 0.0930931692136819,
+      "markup_gini_mean": 0.08692101370543241,
+      "markup_gini_std": 0.03261159721459805,
+      "annualized_tfp": 0.03320457820043399
+    },
+    "gain=0.06": {
+      "delta_tfp_mean": 0.41314682231329714,
+      "delta_tfp_std": 0.09710635411743784,
+      "markup_gini_mean": 0.08664465826004744,
+      "markup_gini_std": 0.03255996519965731,
+      "annualized_tfp": 0.035186807379136376
+    },
+    "gain=0.08": {
+      "delta_tfp_mean": 0.4313239744730798,
+      "delta_tfp_std": 0.10534727737683271,
+      "markup_gini_mean": 0.08647095691412687,
+      "markup_gini_std": 0.03232062009390424,
+      "annualized_tfp": 0.03651071158519792
+    }
+  }
+}

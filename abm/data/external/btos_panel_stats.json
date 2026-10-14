@@ -1,0 +1,21 @@
+{
+ "source": "Sector_20251208_clean.dta qid=7 (original AI question, pre-rewording)",
+ "window_early": "2023-09-17..2024-01-15",
+ "window_late": "2025-09-01..2025-10-01",
+ "n_biweeks": 54,
+ "n_sectors": 15,
+ "n_biweeks_pointwise": 54,
+ "pointwise_rho_adoption_sigma_all_negative": true,
+ "pointwise_rho_adoption_sigma_min": -0.8635561493459208,
+ "pointwise_rho_adoption_sigma_max": -0.64862234829045,
+ "spearman_sigma_early": -0.8082489192810675,
+ "spearman_sigma_late": -0.8331868723261766,
+ "spearman_sigma_delta_pp": -0.7921197834195826,
+ "spearman_sigma_delta_pp_p": 0.0004311135522000245,
+ "spearman_sigma_growth_ratio": -0.13978584413286751,
+ "spearman_sigma_growth_ratio_p": 0.6192793544842078,
+ "model_d13_vs_sigma": -0.5899280575539568,
+ "model_d13_vs_sigma_p": 0.02062136503389716,
+ "model_vs_data_delta": 0.6200756675637457,
+ "model_vs_data_delta_p": 0.013664644052453238
+}

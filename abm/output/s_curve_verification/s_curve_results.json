@@ -1,0 +1,68 @@
+{
+  "No S-curve (baseline)": {
+    "label": "No S-curve (baseline)",
+    "delta_tfp_mean": 0.23073291778564453,
+    "delta_tfp_std": 0.08768967539072037,
+    "annualized_tfp_mean": 0.02074306271970272,
+    "annualized_tfp_std": 0.007311833091080189,
+    "adoption_rate_mean": 0.9317331008719262,
+    "adoption_rate_std": 0.08803800603318354,
+    "readiness_mean_mean": 0.8864275813102722,
+    "readiness_mean_std": 0.03071463853120804
+  },
+  "speed=0.01 threshold=0.8": {
+    "label": "speed=0.01 threshold=0.8",
+    "delta_tfp_mean": 0.13518579304218292,
+    "delta_tfp_std": 0.08264534175395966,
+    "annualized_tfp_mean": 0.012511719949543476,
+    "annualized_tfp_std": 0.007528859656304121,
+    "adoption_rate_mean": 0.692957182702782,
+    "adoption_rate_std": 0.25730831675346166,
+    "readiness_mean_mean": 0.8721638321876526,
+    "readiness_mean_std": 0.06580417603254318
+  },
+  "speed=0.02 threshold=0.8": {
+    "label": "speed=0.02 threshold=0.8",
+    "delta_tfp_mean": 0.20682074129581451,
+    "delta_tfp_std": 0.0572761669754982,
+    "annualized_tfp_mean": 0.018873363733291626,
+    "annualized_tfp_std": 0.004839654546231031,
+    "adoption_rate_mean": 0.8999080538163707,
+    "adoption_rate_std": 0.0907078536846408,
+    "readiness_mean_mean": 0.9211023449897766,
+    "readiness_mean_std": 0.02322155050933361
+  },
+  "speed=0.03 threshold=0.7": {
+    "label": "speed=0.03 threshold=0.7",
+    "delta_tfp_mean": 0.23120760917663574,
+    "delta_tfp_std": 0.06249271705746651,
+    "annualized_tfp_mean": 0.02089741826057434,
+    "annualized_tfp_std": 0.005231467075645924,
+    "adoption_rate_mean": 0.941330575019359,
+    "adoption_rate_std": 0.07805673240241519,
+    "readiness_mean_mean": 0.9325891137123108,
+    "readiness_mean_std": 0.020172229036688805
+  },
+  "speed=0.02 threshold=0.6": {
+    "label": "speed=0.02 threshold=0.6",
+    "delta_tfp_mean": 0.22718262672424316,
+    "delta_tfp_std": 0.06091393530368805,
+    "annualized_tfp_mean": 0.020567595958709717,
+    "annualized_tfp_std": 0.0051408614963293076,
+    "adoption_rate_mean": 0.9432955477157009,
+    "adoption_rate_std": 0.07689837673438484,
+    "readiness_mean_mean": 0.9244627356529236,
+    "readiness_mean_std": 0.020941682159900665
+  },
+  "speed=0.04 threshold=0.8": {
+    "label": "speed=0.04 threshold=0.8",
+    "delta_tfp_mean": 0.23151691257953644,
+    "delta_tfp_std": 0.0627659410238266,
+    "annualized_tfp_mean": 0.020923525094985962,
+    "annualized_tfp_std": 0.005209011025726795,
+    "adoption_rate_mean": 0.929452468984168,
+    "adoption_rate_std": 0.09682486304351222,
+    "readiness_mean_mean": 0.9373922348022461,
+    "readiness_mean_std": 0.021317826583981514
+  }
+}

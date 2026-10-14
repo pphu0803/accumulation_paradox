@@ -1,0 +1,374 @@
+{
+  "sigma=1.5_gain=0.01": {
+    "dominant_phase": "oscillation",
+    "phase_distribution": {
+      "oscillation": 17,
+      "equilibrium": 2,
+      "paradox_chaotic": 1
+    }
+  },
+  "sigma=1.5_gain=0.02": {
+    "dominant_phase": "oscillation",
+    "phase_distribution": {
+      "oscillation": 17,
+      "equilibrium": 2,
+      "paradox_equilibrium": 1
+    }
+  },
+  "sigma=1.5_gain=0.04": {
+    "dominant_phase": "oscillation",
+    "phase_distribution": {
+      "oscillation": 16,
+      "equilibrium": 2,
+      "paradox_equilibrium": 1,
+      "chaotic": 1
+    }
+  },
+  "sigma=1.5_gain=0.06": {
+    "dominant_phase": "oscillation",
+    "phase_distribution": {
+      "oscillation": 16,
+      "paradox_equilibrium": 1,
+      "equilibrium": 2,
+      "chaotic": 1
+    }
+  },
+  "sigma=1.5_gain=0.08": {
+    "dominant_phase": "oscillation",
+    "phase_distribution": {
+      "oscillation": 15,
+      "paradox_equilibrium": 1,
+      "equilibrium": 2,
+      "chaotic": 2
+    }
+  },
+  "sigma=1.5_gain=0.1": {
+    "dominant_phase": "oscillation",
+    "phase_distribution": {
+      "oscillation": 14,
+      "paradox_equilibrium": 1,
+      "equilibrium": 2,
+      "chaotic": 3
+    }
+  },
+  "sigma=2.0_gain=0.01": {
+    "dominant_phase": "oscillation",
+    "phase_distribution": {
+      "equilibrium": 5,
+      "oscillation": 12,
+      "paradox_equilibrium": 2,
+      "chaotic": 1
+    }
+  },
+  "sigma=2.0_gain=0.02": {
+    "dominant_phase": "oscillation",
+    "phase_distribution": {
+      "equilibrium": 2,
+      "oscillation": 13,
+      "paradox_equilibrium": 4,
+      "chaotic": 1
+    }
+  },
+  "sigma=2.0_gain=0.04": {
+    "dominant_phase": "oscillation",
+    "phase_distribution": {
+      "equilibrium": 3,
+      "oscillation": 13,
+      "paradox_equilibrium": 3,
+      "chaotic": 1
+    }
+  },
+  "sigma=2.0_gain=0.06": {
+    "dominant_phase": "oscillation",
+    "phase_distribution": {
+      "equilibrium": 4,
+      "oscillation": 14,
+      "paradox_equilibrium": 2
+    }
+  },
+  "sigma=2.0_gain=0.08": {
+    "dominant_phase": "oscillation",
+    "phase_distribution": {
+      "equilibrium": 3,
+      "oscillation": 13,
+      "chaotic": 2,
+      "paradox_equilibrium": 2
+    }
+  },
+  "sigma=2.0_gain=0.1": {
+    "dominant_phase": "oscillation",
+    "phase_distribution": {
+      "equilibrium": 3,
+      "oscillation": 12,
+      "chaotic": 3,
+      "paradox_equilibrium": 2
+    }
+  },
+  "sigma=2.5_gain=0.01": {
+    "dominant_phase": "oscillation",
+    "phase_distribution": {
+      "oscillation": 17,
+      "equilibrium": 2,
+      "paradox_equilibrium": 1
+    }
+  },
+  "sigma=2.5_gain=0.02": {
+    "dominant_phase": "oscillation",
+    "phase_distribution": {
+      "oscillation": 16,
+      "chaotic": 1,
+      "equilibrium": 2,
+      "paradox_equilibrium": 1
+    }
+  },
+  "sigma=2.5_gain=0.04": {
+    "dominant_phase": "oscillation",
+    "phase_distribution": {
+      "oscillation": 19,
+      "paradox_equilibrium": 1
+    }
+  },
+  "sigma=2.5_gain=0.06": {
+    "dominant_phase": "oscillation",
+    "phase_distribution": {
+      "oscillation": 16,
+      "chaotic": 2,
+      "equilibrium": 1,
+      "paradox_equilibrium": 1
+    }
+  },
+  "sigma=2.5_gain=0.08": {
+    "dominant_phase": "oscillation",
+    "phase_distribution": {
+      "oscillation": 17,
+      "chaotic": 2,
+      "paradox_equilibrium": 1
+    }
+  },
+  "sigma=2.5_gain=0.1": {
+    "dominant_phase": "oscillation",
+    "phase_distribution": {
+      "oscillation": 17,
+      "chaotic": 2,
+      "equilibrium": 1
+    }
+  },
+  "sigma=3.0_gain=0.01": {
+    "dominant_phase": "oscillation",
+    "phase_distribution": {
+      "oscillation": 17,
+      "equilibrium": 2,
+      "chaotic": 1
+    }
+  },
+  "sigma=3.0_gain=0.02": {
+    "dominant_phase": "oscillation",
+    "phase_distribution": {
+      "oscillation": 16,
+      "equilibrium": 3,
+      "chaotic": 1
+    }
+  },
+  "sigma=3.0_gain=0.04": {
+    "dominant_phase": "oscillation",
+    "phase_distribution": {
+      "oscillation": 15,
+      "equilibrium": 4,
+      "chaotic": 1
+    }
+  },
+  "sigma=3.0_gain=0.06": {
+    "dominant_phase": "oscillation",
+    "phase_distribution": {
+      "oscillation": 16,
+      "equilibrium": 2,
+      "chaotic": 2
+    }
+  },
+  "sigma=3.0_gain=0.08": {
+    "dominant_phase": "oscillation",
+    "phase_distribution": {
+      "oscillation": 18,
+      "chaotic": 2
+    }
+  },
+  "sigma=3.0_gain=0.1": {
+    "dominant_phase": "oscillation",
+    "phase_distribution": {
+      "oscillation": 18,
+      "chaotic": 2
+    }
+  },
+  "sigma=4.0_gain=0.01": {
+    "dominant_phase": "oscillation",
+    "phase_distribution": {
+      "chaotic": 2,
+      "equilibrium": 2,
+      "oscillation": 16
+    }
+  },
+  "sigma=4.0_gain=0.02": {
+    "dominant_phase": "oscillation",
+    "phase_distribution": {
+      "chaotic": 2,
+      "equilibrium": 2,
+      "oscillation": 16
+    }
+  },
+  "sigma=4.0_gain=0.04": {
+    "dominant_phase": "oscillation",
+    "phase_distribution": {
+      "chaotic": 2,
+      "oscillation": 17,
+      "equilibrium": 1
+    }
+  },
+  "sigma=4.0_gain=0.06": {
+    "dominant_phase": "oscillation",
+    "phase_distribution": {
+      "chaotic": 3,
+      "oscillation": 16,
+      "equilibrium": 1
+    }
+  },
+  "sigma=4.0_gain=0.08": {
+    "dominant_phase": "oscillation",
+    "phase_distribution": {
+      "chaotic": 3,
+      "oscillation": 17
+    }
+  },
+  "sigma=4.0_gain=0.1": {
+    "dominant_phase": "oscillation",
+    "phase_distribution": {
+      "chaotic": 3,
+      "oscillation": 17
+    }
+  },
+  "sigma=5.0_gain=0.01": {
+    "dominant_phase": "oscillation",
+    "phase_distribution": {
+      "oscillation": 18,
+      "chaotic": 2
+    }
+  },
+  "sigma=5.0_gain=0.02": {
+    "dominant_phase": "oscillation",
+    "phase_distribution": {
+      "oscillation": 18,
+      "chaotic": 2
+    }
+  },
+  "sigma=5.0_gain=0.04": {
+    "dominant_phase": "oscillation",
+    "phase_distribution": {
+      "oscillation": 18,
+      "chaotic": 2
+    }
+  },
+  "sigma=5.0_gain=0.06": {
+    "dominant_phase": "oscillation",
+    "phase_distribution": {
+      "oscillation": 18,
+      "chaotic": 2
+    }
+  },
+  "sigma=5.0_gain=0.08": {
+    "dominant_phase": "oscillation",
+    "phase_distribution": {
+      "oscillation": 17,
+      "chaotic": 3
+    }
+  },
+  "sigma=5.0_gain=0.1": {
+    "dominant_phase": "oscillation",
+    "phase_distribution": {
+      "oscillation": 18,
+      "chaotic": 2
+    }
+  },
+  "sigma=6.0_gain=0.01": {
+    "dominant_phase": "oscillation",
+    "phase_distribution": {
+      "chaotic": 2,
+      "oscillation": 18
+    }
+  },
+  "sigma=6.0_gain=0.02": {
+    "dominant_phase": "oscillation",
+    "phase_distribution": {
+      "chaotic": 2,
+      "oscillation": 18
+    }
+  },
+  "sigma=6.0_gain=0.04": {
+    "dominant_phase": "oscillation",
+    "phase_distribution": {
+      "chaotic": 3,
+      "oscillation": 17
+    }
+  },
+  "sigma=6.0_gain=0.06": {
+    "dominant_phase": "oscillation",
+    "phase_distribution": {
+      "chaotic": 3,
+      "oscillation": 17
+    }
+  },
+  "sigma=6.0_gain=0.08": {
+    "dominant_phase": "oscillation",
+    "phase_distribution": {
+      "chaotic": 3,
+      "oscillation": 17
+    }
+  },
+  "sigma=6.0_gain=0.1": {
+    "dominant_phase": "oscillation",
+    "phase_distribution": {
+      "chaotic": 2,
+      "oscillation": 18
+    }
+  },
+  "sigma=8.0_gain=0.01": {
+    "dominant_phase": "oscillation",
+    "phase_distribution": {
+      "oscillation": 17,
+      "chaotic": 3
+    }
+  },
+  "sigma=8.0_gain=0.02": {
+    "dominant_phase": "oscillation",
+    "phase_distribution": {
+      "oscillation": 17,
+      "chaotic": 3
+    }
+  },
+  "sigma=8.0_gain=0.04": {
+    "dominant_phase": "oscillation",
+    "phase_distribution": {
+      "oscillation": 16,
+      "chaotic": 4
+    }
+  },
+  "sigma=8.0_gain=0.06": {
+    "dominant_phase": "oscillation",
+    "phase_distribution": {
+      "chaotic": 5,
+      "oscillation": 15
+    }
+  },
+  "sigma=8.0_gain=0.08": {
+    "dominant_phase": "oscillation",
+    "phase_distribution": {
+      "oscillation": 17,
+      "chaotic": 3
+    }
+  },
+  "sigma=8.0_gain=0.1": {
+    "dominant_phase": "oscillation",
+    "phase_distribution": {
+      "oscillation": 16,
+      "chaotic": 4
+    }
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "all_sectors": {
+    "n": 15,
+    "spearman_rho": 0.2508964602469484,
+    "spearman_p": 0.36707467619333234,
+    "pearson_r": 0.3192565539120508,
+    "pearson_p": 0.24609816425643,
+    "sectors": [
+      "Technology",
+      "Financial Services",
+      "Professional Services",
+      "Healthcare",
+      "Media and Telecom",
+      "Retail",
+      "Energy",
+      "Manufacturing",
+      "Education",
+      "Government",
+      "Agriculture",
+      "Logistics",
+      "Environment",
+      "Legal Services",
+      "Real Estate"
+    ],
+    "sigma": [
+      2.818181818181818,
+      2.6666666666666665,
+      3.0,
+      3.5000000000000004,
+      2.818181818181818,
+      7.6666666666666705,
+      3.0408163265306123,
+      5.0,
+      6.000000000000001,
+      5.5,
+      2.2345679012345676,
+      9.333333333333327,
+      3.8571428571428563,
+      3.0,
+      3.8571428571428563
+    ],
+    "mckinsey_2025": [
+      92.0,
+      80.0,
+      82.0,
+      65.0,
+      74.0,
+      68.0,
+      66.0,
+      65.0,
+      58.0,
+      50.0,
+      42.0,
+      63.0,
+      44.0,
+      52.0,
+      46.0
+    ],
+    "model_adoption": [
+      0.9429540356000264,
+      0.9531615694363912,
+      0.9031900962193807,
+      0.6820433477560679,
+      0.9429540356000264,
+      0.1867576688528061,
+      0.8941258867581685,
+      0.42893887410561243,
+      0.35664320811629296,
+      0.39312768429517747,
+      0.9657494028409322,
+      0.1409303883711497,
+      0.5189479867617289,
+      0.9031900962193807,
+      0.5189479867617289
+    ]
+  },
+  "btos_matched": {
+    "n": 8,
+    "spearman_rho": 0.730552019767088,
+    "spearman_p": 0.03955562790429755
+  },
+  "growth_comparison": {
+    "spearman_rho": -0.2632059627270643,
+    "spearman_p": 0.3432233768722741,
+    "pearson_r": -0.1422209793527626,
+    "pearson_p": 0.6131258673355742,
+    "note": "descriptive only: model values are end-state levels; McKinsey growth correlates ~-0.90 with the 2025 level, so this largely restates the level test with flipped sign"
+  }
+}

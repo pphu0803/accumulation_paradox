@@ -1,0 +1,57 @@
+{
+ "duplicate_sigma_deduplication": {
+  "n_resolutions": 16,
+  "cross_section_rho_range": [
+   0.7636363636363637,
+   0.8454545454545455
+  ],
+  "panel_model_vs_delta_rho_range": [
+   0.6000000000000001,
+   0.8545454545454546
+  ],
+  "panel_model_vs_delta_p_range": [
+   0.0008066741521648989,
+   0.05100326070695074
+  ],
+  "cross_section_weakest_rho": 0.7636363636363637,
+  "cross_section_weakest_mc_permutation_p": 0.00869,
+  "mc_draws": 200000,
+  "mc_seed": 20261011
+ },
+ "question_rewording_vintage": {
+  "cross_section_rho_pre_rewording": 0.8010804144537408,
+  "cross_section_p_pre_rewording": 0.00033135321136916425,
+  "cross_section_rho_post_rewording": 0.8243780551425519,
+  "level_jump_pp_range": [
+   4.050000000000001,
+   15.1
+  ],
+  "level_jump_pp_mean": 8.216666666666665,
+  "model_minus_data_gap_pp_post": [
+   4.442618818581101,
+   76.95365864038467
+  ],
+  "model_minus_data_gap_pp_pre": [
+   9.042618818581103,
+   85.97518598884344
+  ]
+ },
+ "leave_one_out_table6_design": {
+  "loo_rho_range": [
+   0.7845346972507999,
+   0.88398275746569
+  ],
+  "dropped_at_min": "Transportation",
+  "dropped_at_max": "Health Care"
+ },
+ "mckinsey_boundary": {
+  "strict6_unique_elasticity_rho": 0.5217939320872036,
+  "strict6_unique_elasticity_p": 0.2883432338003935,
+  "matched8_rho": 0.730552019767088,
+  "matched8_p": 0.03955562790429755,
+  "plus_real_estate_rho": 0.619252282479235,
+  "plus_real_estate_p": 0.07534651435930134,
+  "plus_real_estate_and_environment_rho": 0.5304878048780488,
+  "plus_real_estate_and_environment_p": 0.11467988802242662
+ }
+}

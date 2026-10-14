@@ -1,0 +1,1 @@
+"""Accumulation Paradox ABM package."""

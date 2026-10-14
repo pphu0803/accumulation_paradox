@@ -1,0 +1,23 @@
+naics2,sector,markup_2016,delta_markup_1980_2016,sales_share_2016,demand_elasticity
+11,Agriculture Forestry Fishing,1.81,0.00,0.00,2.23
+21,Mining Quarrying Oil Gas,1.49,0.34,0.03,3.04
+22,Utilities,1.41,0.07,0.00,3.44
+23,Construction,1.16,0.03,0.01,7.25
+31,Manufacturing 1,1.81,0.05,0.06,2.23
+32,Manufacturing 2,1.94,0.10,0.23,2.06
+33,Manufacturing 3,1.38,0.04,0.24,3.63
+42,Wholesale Trade,1.12,-0.01,0.04,9.33
+44,Retail Trade 1,1.01,-0.05,0.07,101.00
+45,Retail Trade 2,1.27,0.01,0.03,4.70
+48,Transportation Warehousing 1,1.28,0.03,0.04,4.57
+49,Transportation Warehousing 2,0.93,-0.20,0.00,-1.00
+51,Information,2.14,0.06,0.11,1.88
+52,Finance and Insurance,1.77,-0.06,0.05,2.30
+53,Real Estate and Rental,2.64,0.21,0.01,1.61
+54,Professional Technical Services,1.66,0.11,0.02,2.52
+56,Admin Support Waste Remediation,1.76,0.06,0.01,2.32
+61,Educational Services,1.67,-0.04,0.00,2.49
+62,Health Care Social Assistance,1.11,0.01,0.02,10.09
+71,Arts Entertainment Recreation,1.27,0.01,0.00,4.70
+72,Accommodation Food Services,1.12,-0.01,0.01,9.33
+81,Other Services,1.25,0.02,0.00,5.00

@@ -1,0 +1,108 @@
+{
+ "source": "Felten, Raj & Seamans (2021), AIOE Data Appendix B (AIIE by 4-digit NAICS), aggregated as unweighted means of 4-digit industries within each sector; not redistributed, obtainable from the authors",
+ "n_sectors": 14,
+ "spearman_model_adoption_vs_aiie": 0.8291114813387855,
+ "spearman_model_adoption_vs_aiie_p": 0.0002461408230294377,
+ "spearman_sigma_vs_aiie": -0.8158809789769964,
+ "spearman_btos_vs_aiie": 0.9240929684291711,
+ "sectors": {
+  "Information": {
+   "n_industries": 9,
+   "aiie_mean": 1.2675550444444446,
+   "sigma": 2.818181818181818,
+   "btos_rate": 36.55,
+   "model_adoption": 0.9642977583408355
+  },
+  "Professional Services": {
+   "n_industries": 9,
+   "aiie_mean": 1.5949278333333334,
+   "sigma": 3.0,
+   "btos_rate": 33.35,
+   "model_adoption": 0.9649908721446991
+  },
+  "Finance and Insurance": {
+   "n_industries": 8,
+   "aiie_mean": 2.05267,
+   "sigma": 2.6666666666666665,
+   "btos_rate": 29.65,
+   "model_adoption": 0.9643037092685699
+  },
+  "Educational Services": {
+   "n_industries": 7,
+   "aiie_mean": 1.3241609,
+   "sigma": 6.000000000000001,
+   "btos_rate": 27.75,
+   "model_adoption": 0.33636167991906407
+  },
+  "Real Estate and Rental": {
+   "n_industries": 4,
+   "aiie_mean": 0.509203825,
+   "sigma": 3.8571428571428563,
+   "btos_rate": 22.65,
+   "model_adoption": 0.9387518598884345
+  },
+  "Health Care": {
+   "n_industries": 18,
+   "aiie_mean": 0.5608008055555556,
+   "sigma": 3.5000000000000004,
+   "btos_rate": 19.75,
+   "model_adoption": 0.9670365864038467
+  },
+  "Arts and Recreation": {
+   "n_industries": 9,
+   "aiie_mean": 0.09589349999999998,
+   "sigma": 7.6666666666666705,
+   "btos_rate": 17.85,
+   "model_adoption": 0.23757110811769963
+  },
+  "Wholesale Trade": {
+   "n_industries": 10,
+   "aiie_mean": 0.26408451,
+   "sigma": 6.555555555555557,
+   "btos_rate": 13.0,
+   "model_adoption": 0.4284255586564541
+  },
+  "Retail Trade": {
+   "n_industries": 24,
+   "aiie_mean": -0.012883941666666657,
+   "sigma": 7.6666666666666705,
+   "btos_rate": 12.8,
+   "model_adoption": 0.23757110811769963
+  },
+  "Manufacturing": {
+   "n_industries": 69,
+   "aiie_mean": -0.4842254202898551,
+   "sigma": 5.0,
+   "btos_rate": 11.6,
+   "model_adoption": 0.3062999475188553
+  },
+  "Other Services": {
+   "n_industries": 13,
+   "aiie_mean": -0.025506746153846224,
+   "sigma": 6.000000000000001,
+   "btos_rate": 9.95,
+   "model_adoption": 0.33636167991906407
+  },
+  "Construction": {
+   "n_industries": 10,
+   "aiie_mean": -0.99696114,
+   "sigma": 10.999999999999991,
+   "btos_rate": 8.35,
+   "model_adoption": 0.12792618818581103
+  },
+  "Accommodation and Food": {
+   "n_industries": 6,
+   "aiie_mean": -0.9318269999999998,
+   "sigma": 10.999999999999991,
+   "btos_rate": 8.35,
+   "model_adoption": 0.12792618818581103
+  },
+  "Transportation": {
+   "n_industries": 28,
+   "aiie_mean": -0.39276363214285714,
+   "sigma": 9.333333333333327,
+   "btos_rate": 7.15,
+   "model_adoption": 0.12711468510329724
+  }
+ }
+}
